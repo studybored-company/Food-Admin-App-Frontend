@@ -65,7 +65,7 @@ const Login = ({ navigation }) => {
     return (
         <View style={styles.inputContainer}>
             <View >
-                <Text style={styles.texthead}>Register</Text>
+                <Text style={styles.texthead}>Login</Text>
             </View>
 
             <View style={styles.input}>
